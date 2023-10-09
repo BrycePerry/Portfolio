@@ -1,0 +1,14 @@
+Portions of this site include resourses originally found at: 
+
+1)
+https://html5up.net/dimension
+Dimension by HTML5 UP
+html5up.net | @ajlkn
+
+2)
+jQuery (jquery.com)
+
+3)
+Responsive Tools (github.com/ajlkn/responsive-tools)
+
+and are being used under the CCA 3.0 license.
